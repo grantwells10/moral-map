@@ -2,6 +2,8 @@
 
 MoralMap project aims to develop a comprehensive platform for collecting, analyzing, and generating insights from user interactions with ethical dilemma scenarios. The platform will facilitate diverse demographic participation, ethical dilemma generation, and robust data collection processes, with automated quality control and insight generation.
 
+Developed by Anushka Levaku, Ben Tausner, Grant Wells, Marc Vaz, Mantas Viazmitinas, and Sam Tausner
+
 ## Flow Chart Breakdown
 
 This section outlines the flow of data and processes from platform development to final evaluation.
