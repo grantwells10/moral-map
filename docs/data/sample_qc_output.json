@@ -1,0 +1,12 @@
+[
+    {
+        "participant_id": 1,
+        "quality_flag": false,
+        "reason": "Passed attention check with reasonable response time"
+    },
+    {
+        "participant_id": 2,
+        "quality_flag": true,
+        "reason": "Failed attention check; not insufficient response time"
+    }
+]

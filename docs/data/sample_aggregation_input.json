@@ -1,0 +1,24 @@
+[
+    {
+        "participant_id": 1,
+        "demographics": {
+            "state": "New York",
+            "political_affiliation": "Progressive"
+        },
+        "responses": [
+            {"issue": "Gun Control", "answer": "Yes"},
+            {"issue": "Abortion", "answer": "With restrictions"}
+        ]
+    },
+    {
+        "participant_id": 2,
+        "demographics": {
+            "state": "Texas",
+            "political_affiliation": "Conservative"
+        },
+        "responses": [
+            {"issue": "Gun Control", "answer": "No"},
+            {"issue": "Abortion", "answer": "Illegal"}
+        ]
+    }
+]
