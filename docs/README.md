@@ -96,9 +96,11 @@ This section outlines the flow of data and processes from platform development t
 
 ### Data
 ethical_dilemmas.json – ourlist of ethical dilemmas designed to explore ideological differences in contemporary issues: each entry has an "issue," (topic) a "question," and "options" (type of answers)
+
 sample_qc_input.json/sample_qc_output.json – shows how the QC module identifies low-quality responses
   - Input: participant details with responses and quality flags (attention check from response time)
   - Output: flags responses as valid or invalid
+
 sample_aggregation_input.json/sample_aggregation_output.json – example of how the aggregation module groups data by demographics
   - Input: demographics and responses from each participant
   - Output: counts of responses by demographic (ideology, state, etc)
