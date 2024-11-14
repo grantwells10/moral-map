@@ -97,9 +97,16 @@ This section outlines the flow of data and processes from platform development t
 ### Data
 ethical_dilemmas.json – ourlist of ethical dilemmas designed to explore ideological differences in contemporary issues: each entry has an "issue," (topic) a "question," and "options" (type of answers)
 
+sample_participant_data.json - contains detailed demographic information and responses for each participant
+  - participant_id: unique identifier for each participant
+  - demographics: a nested object with fields like age, gender, location, and other relevant demographic details
+  - responses: an array of participant answers to ethical dilemmas, each with an issue (dilemma topic) and answer (participant's choice)
+
 sample_qc_input.json/sample_qc_output.json – shows how the QC module identifies low-quality responses
   - Input: participant details with responses and quality flags (attention check from response time)
   - Output: flags responses as valid or invalid
+  - response_time: the time (in seconds) taken by the participant to complete the response (used for QC)
+  - attention_check_passed: a boolean to tell us if the participant passed an embedded attention check question
 
 sample_aggregation_input.json/sample_aggregation_output.json – example of how the aggregation module groups data by demographics
   - Input: demographics and responses from each participant
