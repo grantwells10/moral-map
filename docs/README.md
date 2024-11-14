@@ -111,3 +111,15 @@ sample_qc_input.json/sample_qc_output.json – shows how the QC module identifie
 sample_aggregation_input.json/sample_aggregation_output.json – example of how the aggregation module groups data by demographics
   - Input: demographics and responses from each participant
   - Output: counts of responses by demographic (ideology, state, etc)
+
+### Modules 
+qc_module - contains functions for verifying data quality through attention checks. The primary function, check_attention(), checks whether participants answered control questions consistently. The module flags responses that fail these checks, providing reasons for each flag.
+  - load_data(file_path): Loads participant data from a JSON file
+  - check_attention(responses, control_issues): Checks for consistent responses on control issues
+  - perform_quality_control(data, control_issues): Applies attention checks to each participant
+  - save_qc_results(qc_results, output_path): Saves QC results in JSON format
+
+aggregation_module - aggregates participant responses based on ethical issues and demographics. The primary function, aggregate_responses(), organizes responses by issue, answer, and demographic, enabling analysis of trends by demographic groups
+  - load_data(file_path): Loads participant data for aggregation
+  - aggregate_responses(data): Aggregates responses by issue and demographic (e.g., political affiliation)
+  - save_aggregation_results(aggregated_data, output_path): Saves aggregated data in JSON format
