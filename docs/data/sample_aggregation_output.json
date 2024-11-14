@@ -1,0 +1,22 @@
+{
+    "Gun Control": {
+        "Yes": {
+            "Progressive": 1,
+            "Conservative": 0
+        },
+        "No": {
+            "Progressive": 0,
+            "Conservative": 1
+        }
+    },
+    "Abortion": {
+        "With restrictions": {
+            "Progressive": 1,
+            "Conservative": 0
+        },
+        "Illegal": {
+            "Progressive": 0,
+            "Conservative": 1
+        }
+    }
+}

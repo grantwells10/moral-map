@@ -1,0 +1,100 @@
+[
+    {
+        "participant_id": 1,
+        "demographics": {
+            "age": 28,
+            "gender": "Female",
+            "location": {
+                "city": "New York",
+                "state": "New York",
+                "country": "USA"
+            },
+            "education": "Master's Degree",
+            "employment_status": "Employed",
+            "household_income": "75000-100000",
+            "ethnicity_race": "Asian",
+            "self_identification": "Progressive"
+        },
+        "responses": [
+            {"issue": "Gun Control", "answer": "Yes"},
+            {"issue": "Abortion", "answer": "With restrictions"},
+            {"issue": "Social Welfare Programs", "answer": "Yes"},
+            {"issue": "Climate Change", "answer": "Yes"},
+            {"issue": "Education", "answer": "Yes"},
+            {"issue": "Immigration", "answer": "No"},
+            {"issue": "Healthcare", "answer": "Yes"},
+            {"issue": "Privacy", "answer": "No"},
+            {"issue": "Law Enforcement", "answer": "No"},
+            {"issue": "Death Penalty", "answer": "No"},
+            {"issue": "Military Spending", "answer": "No"},
+            {"issue": "Taxation", "answer": "Yes"},
+            {"issue": "Minimum Wage", "answer": "Yes"},
+            {"issue": "Housing", "answer": "Yes"},
+            {"issue": "Drug Policy", "answer": "Yes"},
+            {"issue": "LGBTQ Rights", "answer": "Yes"},
+            {"issue": "Voting Rights", "answer": "Yes"},
+            {"issue": "Labor Rights", "answer": "Yes"},
+            {"issue": "Healthcare Accessibility", "answer": "Yes"},
+            {"issue": "Education Curriculum", "answer": "Yes"},
+            {"issue": "Energy Policy", "answer": "Yes"},
+            {"issue": "Economic Inequality", "answer": "Yes"},
+            {"issue": "Homelessness", "answer": "Yes"},
+            {"issue": "Animal Rights", "answer": "Yes"},
+            {"issue": "Corporate Regulations", "answer": "Yes"},
+            {"issue": "Freedom of Speech", "answer": "No"},
+            {"issue": "Reparations", "answer": "Yes"},
+            {"issue": "Prison Reform", "answer": "Yes"},
+            {"issue": "Environmental Protection", "answer": "Yes"},
+            {"issue": "Public Transit", "answer": "Yes"}
+        ]
+    },
+    {
+        "participant_id": 2,
+        "demographics": {
+            "age": 45,
+            "gender": "Male",
+            "location": {
+                "city": "Houston",
+                "state": "Texas",
+                "country": "USA"
+            },
+            "education": "High School",
+            "employment_status": "Self-Employed",
+            "household_income": "50000-75000",
+            "ethnicity_race": "Caucasian",
+            "self_identification": "Conservative"
+        },
+        "responses": [
+            {"issue": "Gun Control", "answer": "No"},
+            {"issue": "Abortion", "answer": "Illegal"},
+            {"issue": "Social Welfare Programs", "answer": "No"},
+            {"issue": "Climate Change", "answer": "No"},
+            {"issue": "Education", "answer": "No"},
+            {"issue": "Immigration", "answer": "Yes"},
+            {"issue": "Healthcare", "answer": "No"},
+            {"issue": "Privacy", "answer": "Yes"},
+            {"issue": "Law Enforcement", "answer": "Yes"},
+            {"issue": "Death Penalty", "answer": "Yes"},
+            {"issue": "Military Spending", "answer": "Yes"},
+            {"issue": "Taxation", "answer": "No"},
+            {"issue": "Minimum Wage", "answer": "No"},
+            {"issue": "Housing", "answer": "No"},
+            {"issue": "Drug Policy", "answer": "No"},
+            {"issue": "LGBTQ Rights", "answer": "No"},
+            {"issue": "Voting Rights", "answer": "No"},
+            {"issue": "Labor Rights", "answer": "No"},
+            {"issue": "Healthcare Accessibility", "answer": "No"},
+            {"issue": "Education Curriculum", "answer": "No"},
+            {"issue": "Energy Policy", "answer": "No"},
+            {"issue": "Economic Inequality", "answer": "No"},
+            {"issue": "Homelessness", "answer": "No"},
+            {"issue": "Animal Rights", "answer": "No"},
+            {"issue": "Corporate Regulations", "answer": "No"},
+            {"issue": "Freedom of Speech", "answer": "Yes"},
+            {"issue": "Reparations", "answer": "No"},
+            {"issue": "Prison Reform", "answer": "No"},
+            {"issue": "Environmental Protection", "answer": "No"},
+            {"issue": "Public Transit", "answer": "No"}
+        ]
+    }
+]
