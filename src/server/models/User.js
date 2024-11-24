@@ -1,8 +1,6 @@
 const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({
-    firstName: String, // lowkey should be anonymous
-    lastName: String,
     age: Number,
     gender: String,
     city: String,

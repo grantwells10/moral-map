@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 
-const DilemmaScreen = ({ user, setUser }) => {
+const DilemmaScreen = ({ user }) => {
     const [dilemmas, setDilemmas] = useState([]);
 
     useEffect(() => {
@@ -16,7 +16,6 @@ const DilemmaScreen = ({ user, setUser }) => {
         fetchDilemmas();
     }, []);
 
-    // NOT WORKING YET
     const handleResponse = async (dilemmaId, selectedOption) => {
         try {
             const response = await fetch(`/api/users/${user._id}/responses`, {
@@ -27,7 +26,7 @@ const DilemmaScreen = ({ user, setUser }) => {
                 body: JSON.stringify(
                     { 
                         dilemmaId, 
-                        response: selectedOption 
+                        response: selectedOption
                     }
                 )
             });
@@ -44,7 +43,6 @@ const DilemmaScreen = ({ user, setUser }) => {
 
     return (
         <div style={{ padding: '20px' }}>
-            <h1>Welcome, {user.name}</h1>
             <p>Please respond to the following dilemmas:</p>
             {dilemmas.map((dilemma) => (
                 <div key={dilemma._id} style={{ marginBottom: '20px' }}>

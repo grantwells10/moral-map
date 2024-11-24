@@ -3,8 +3,6 @@ import React, {useState} from 'react';
 const UserForm = ({ onUserCreated }) => {
     // User form data
     const [formData, setFormData] = useState({
-        firstName: '',
-        lastName: '',
         age: '',
         gender: '',
         city: '',
@@ -44,8 +42,6 @@ const UserForm = ({ onUserCreated }) => {
     return (
         <form onSubmit={handleSubmit} style={{ padding: '20px' }}>
             <h1>User Information</h1>
-            <input type="text" name="firstName" placeholder="First Name" onChange={handleChange} required />
-            <input type ="text" name="lastName" placeholder="Last Name" onChange={handleChange} required />
             <input type="number" name="age" placeholder="Age" onChange={handleChange} required />
             <input type="text" name="gender" placeholder="Gender" onChange={handleChange} required />
             <input type="text" name="city" placeholder="City" onChange={handleChange} required />
