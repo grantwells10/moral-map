@@ -8,6 +8,7 @@ const userSchema = new mongoose.Schema({
     locationType: String,
     education: String,
     employmentStatus: String,
+    religion: String,
     responses: [{
         dilemmaId: { type: mongoose.Schema.Types.ObjectId, ref: 'Dilemma' },
         response: String

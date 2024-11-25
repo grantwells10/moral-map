@@ -8,6 +8,7 @@ const UserForm = ({ onUserCreated }) => {
     const [locationType, setLocationType] = useState('');
     const [education, setEducation] = useState('');
     const [employmentStatus, setEmployment] = useState('');
+    const [religion, setReligion] = useState('');
     const [countries, setCountries] = useState([]);
 
     const formStyles = {
@@ -69,6 +70,16 @@ const UserForm = ({ onUserCreated }) => {
         "Wisconsin", "Wyoming"
     ];
 
+    const religions = [
+        'Christianity',
+        'Islam',
+        'Hinduism',
+        'Buddhism',
+        'Judaism',
+        'Atheism',
+        'Other'
+    ];
+
     useEffect(() => {
         const fetchCountries = async() => {
             const response = await fetch('https://restcountries.com/v3.1/all');
@@ -81,7 +92,7 @@ const UserForm = ({ onUserCreated }) => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-        const userInfo = { age, gender, country, state, locationType, education, employmentStatus };
+        const userInfo = { age, gender, country, state, locationType, education, employmentStatus, religion };
         try {
             const response = await fetch('/api/users', {
                 method: 'POST',
@@ -209,6 +220,21 @@ const UserForm = ({ onUserCreated }) => {
                         <option value="part-time">Part-Time</option>
                         <option value="student">Student</option>
                         <option value="self-employed">Self-Employed</option>
+                    </select>
+                </div>
+
+                <div style={formStyles.formGroup}>
+                    <label style={formStyles.label}>Religion</label>
+                    <select 
+                        style={formStyles.select}
+                        value={religion}
+                        onChange={(e) => setReligion(e.target.value)} 
+                        required
+                    >
+                        <option value="">Select Religion</option>
+                        {religions.map((religion, index) => (
+                            <option key={index} value={religion}>{religion}</option>
+                        ))}
                     </select>
                 </div>
 

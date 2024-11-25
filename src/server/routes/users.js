@@ -12,6 +12,7 @@ router.post('/', async (req, res) => {
         locationType: req.body.locationType,
         education: req.body.education,
         employmentStatus: req.body.employmentStatus,
+        religion: req.body.religion,
         responses: []
     });
 
