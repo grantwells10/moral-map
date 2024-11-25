@@ -23,11 +23,9 @@ router.post('/', async (req, res) => {
     }
 });
 
-// Add a user's response to a dilemma (update if they change responses)
-router.post('/:userId/responses', async (req, res) => {
-
+router.post('/:userId/responses/bulk', async (req, res) => {
     const { userId } = req.params;
-    const { dilemmaId, response } = req.body;
+    const { responses } = req.body;
 
     try {
         const user = await User.findById(userId);
@@ -35,28 +33,25 @@ router.post('/:userId/responses', async (req, res) => {
             return res.status(404).json({ message: 'User not found' });
         }
 
-        // Now check if they already responded to that dilemma
-        const existingResponseIdx = user.responses.findIndex(
-            (r) => r.dilemmaId.toString() === dilemmaId.toString()
-        );
-        
-        // If present, update
-        if (existingResponseIdx >= 0) {
-            user.responses[existingResponseIdx].response = response;
-            console.log("Updated response");
-        } else {
-            user.responses.push({ dilemmaId, response});
-            console.log("Added fresh response")
-        }
+        // Convert responses object to array format
+        const responsesArray = Object.entries(responses).map(([dilemmaId, response]) => ({
+            dilemmaId,
+            response
+        }));
+
+        // Add responses
+        user.responses = responsesArray;
 
         // Save changes
-        await user.save(); 
+        await user.save();
 
         res.status(200).json(user);
+
+        console.log("User responses added in bulk!");
     } catch (err) {
         res.status(500).json({message: err.message});
     }
-})
+});
 
 
 module.exports = router;
