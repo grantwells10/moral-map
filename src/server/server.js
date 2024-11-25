@@ -14,18 +14,25 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-app.use((req, res, next) => {
-    console.log(`Incoming request: ${req.method} ${req.url}`);
-    next();
-});
-
 // Mount routes
 app.use('/api/dilemmas', dilemmaRoutes);
 app.use('/api/users', userRoutes);
 
+// For render
+app.use(express.static(path.join(__dirname, '../client/build')));
+
+// Databse connection
 mongoose.connect(process.env.MONGO_URI, {useNewUrlParser: true, useUnifiedTopology: true})
     .then(() => {console.log('Connected to MongoDB', mongoose.connection.name)})
     .catch(err => console.error(err));
 
-const PORT  = process.env.PORT || 5001;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+// Help render with routing
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../client/build/index.html'));
+});
+
+// Use Render's port or fallback to 3000
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
