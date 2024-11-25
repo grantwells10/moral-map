@@ -5,13 +5,11 @@ const User = require('../models/User');
 // Add a new user
 router.post('/', async (req, res) => {
     const user = new User({
-        firstName: req.body.firstName,
-        lastName: req.body.lastName,
         age: req.body.age,
         gender: req.body.gender,
-        city: req.body.city,
         state: req.body.state,
         country: req.body.country,
+        locationType: req.body.locationType,
         education: req.body.education,
         employmentStatus: req.body.employmentStatus,
         responses: []

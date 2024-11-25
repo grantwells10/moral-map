@@ -3,9 +3,9 @@ const mongoose = require('mongoose');
 const userSchema = new mongoose.Schema({
     age: Number,
     gender: String,
-    city: String,
-    state: String,
     country: String,
+    state: String,
+    locationType: String,
     education: String,
     employmentStatus: String,
     responses: [{
