@@ -11,7 +11,11 @@ const userSchema = new mongoose.Schema({
     responses: [{
         dilemmaId: { type: mongoose.Schema.Types.ObjectId, ref: 'Dilemma' },
         response: String
-    }]
+    }],
+    passedAttentionCheck: {
+        type: Boolean,
+        default: false
+    }
 });
 
 module.exports = mongoose.model('User', userSchema);

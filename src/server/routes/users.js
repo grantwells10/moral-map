@@ -25,7 +25,7 @@ router.post('/', async (req, res) => {
 
 router.post('/:userId/responses/bulk', async (req, res) => {
     const { userId } = req.params;
-    const { responses } = req.body;
+    const { responses, passedAttentionCheck } = req.body;
 
     try {
         const user = await User.findById(userId);
@@ -41,6 +41,7 @@ router.post('/:userId/responses/bulk', async (req, res) => {
 
         // Add responses
         user.responses = responsesArray;
+        user.passedAttentionCheck = passedAttentionCheck;
 
         // Save changes
         await user.save();
@@ -49,6 +50,7 @@ router.post('/:userId/responses/bulk', async (req, res) => {
 
         console.log("User responses added in bulk!");
     } catch (err) {
+        console.error("Error details:", err); 
         res.status(500).json({message: err.message});
     }
 });

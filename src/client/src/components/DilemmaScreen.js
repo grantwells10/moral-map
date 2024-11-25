@@ -1,5 +1,13 @@
 import React, {useState, useEffect} from 'react';
 
+// Hard-coded attention check dilemma
+const attentionCheck = {
+    _id: "654321654321654321654321",
+    issue: "Food Safety",
+    question: "Food safety is very important. To ensure you are actually paying attention, choose Abolish the FDA.",
+    options: ["FDA is important", "Abolish the FDA", "Unsure"],
+    isAttentionCheck: true
+};
 
 const DilemmaScreen = ({ user }) => {
     const [dilemmas, setDilemmas] = useState([]);
@@ -12,7 +20,15 @@ const DilemmaScreen = ({ user }) => {
             try {
                 const response = await fetch('/api/dilemmas/sample');
                 const data = await response.json();
-                setDilemmas(data);
+                // Randomly choose index for attention check between 2 and 8
+                const randomIndex = Math.floor(Math.random() * 7) + 2;
+                const withAttentionCheck = [
+                    ...data.slice(0, randomIndex),
+                    attentionCheck,
+                    ...data.slice(randomIndex)
+                ];
+                // Ensure we only have 10 dilemmas total
+                setDilemmas(withAttentionCheck.slice(0, 10));
             } catch (err) {
                 console.error(err);
             }
@@ -30,13 +46,16 @@ const DilemmaScreen = ({ user }) => {
 
     // Only used at the end to bulk submit
     const submitResponses = async () => {
+
+        const passedAttentionCheck = responses[attentionCheck._id] === "Abolish the FDA";
+
         try {
             const response = await fetch(`/api/users/${user._id}/responses/bulk`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ responses })
+                body: JSON.stringify({ responses, passedAttentionCheck })
             });
 
             if (response.ok) {
