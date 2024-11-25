@@ -10,7 +10,7 @@ The Moral Map platform is a crowdsourcing tool designed to collect demographic i
 ## **Instructions**
 
 1. **Access the Website**:
-   - Visit the (Moral Map website)[https://moral-map.onrender.com] hosted on Render.
+   - Visit the [Moral Map website](https://moral-map.onrender.com) hosted on Render.
 
 2. **Review Instructions**:
    - Once you arrive on the website, you will be presented with an introduction to the platform along with the instructions on how to contribute. The key here is that once you begin the survey you will
