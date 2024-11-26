@@ -91,23 +91,35 @@ const UserForm = ({ onUserCreated }) => {
     }, []);
 
     const handleSubmit = async (e) => {
-        e.preventDefault();
-        const userInfo = { age, gender, country, state, locationType, education, employmentStatus, religion };
-        try {
-            const response = await fetch('/api/users', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(userInfo)
-            });
-            const user = await response.json();
-            console.log('User created:', user);
-            onUserCreated(user);
-        } catch (err) {
-            console.error(err);
-        }
+    e.preventDefault();
+
+    const userInfo = { 
+        age, 
+        gender, 
+        country: country || null, // Use a fallback to null if country is empty
+        state, 
+        locationType, 
+        education, 
+        employmentStatus, 
+        religion 
+    };
+
+    try {
+        const response = await fetch('/api/users', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(userInfo)
+        });
+
+        const user = await response.json();
+        console.log('User created:', user);
+        onUserCreated(user);
+    } catch (err) {
+        console.error(err);
     }
+};
 
     return (
         <div style={formStyles.container}>
