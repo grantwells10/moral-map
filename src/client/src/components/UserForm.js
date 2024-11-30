@@ -171,7 +171,8 @@ const UserForm = ({ onUserCreated }) => {
                     <select 
                         style={formStyles.select}
                         value={country}
-                        onChange={(e) => setCountry(e.target.value)} 
+                        onChange={(e) => setCountry(e.target.value)}
+                        required
                     >
                         <option value="">Select Country</option>
                         {countries.map((country, index) => (
