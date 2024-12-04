@@ -1,0 +1,5198 @@
+[
+  {
+    "_id": { "$oid": "6743f4192ef6bd197f0f0ea2" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0ea6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0ea7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "No",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0ea8" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0ea9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "No",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0eaa" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0eab" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0eac" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0ead" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0eae" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Unsure",
+        "_id": { "$oid": "6743f45d2ef6bd197f0f0eaf" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674405e20f8abbcbf9b79c9b" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Georgia",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Hinduism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674406488f482a25b89ca26f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674406488f482a25b89ca270" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "674406488f482a25b89ca271" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Unsure",
+        "_id": { "$oid": "674406488f482a25b89ca272" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674406488f482a25b89ca273" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674406488f482a25b89ca274" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674406488f482a25b89ca275" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Unsure",
+        "_id": { "$oid": "674406488f482a25b89ca276" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674406488f482a25b89ca277" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "No",
+        "_id": { "$oid": "674406488f482a25b89ca278" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67461acb8f482a25b89ca27a" },
+    "age": 20,
+    "gender": "male",
+    "country": "Andorra",
+    "state": "",
+    "locationType": "rural",
+    "education": "highschool",
+    "employmentStatus": "employed",
+    "religion": "Judaism",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "67461ead689f64fb2b0bd5e0" },
+    "age": 22,
+    "gender": "male",
+    "country": "United States",
+    "state": "Georgia",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5e4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5e5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5e6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5e7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5e8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5e9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5ea" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5eb" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5ec" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f19689f64fb2b0bd5ed" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67461f4c689f64fb2b0bd5ef" },
+    "age": 21,
+    "gender": "male",
+    "country": "",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "unemployed",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af64" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af65" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af66" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af67" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "No",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af68" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "No",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af69" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af6a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af6b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af6c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "67461ff2dc7a5db52fd3af6d" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67461f5a689f64fb2b0bd5f2" },
+    "age": 22,
+    "gender": "male",
+    "country": "",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f84689f64fb2b0bd5fc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "No",
+        "_id": { "$oid": "67461f84689f64fb2b0bd5fd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f84689f64fb2b0bd5fe" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67461f84689f64fb2b0bd5ff" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461f84689f64fb2b0bd600" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f84689f64fb2b0bd601" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f84689f64fb2b0bd602" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "67461f84689f64fb2b0bd603" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f84689f64fb2b0bd604" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "Yes",
+        "_id": { "$oid": "67461f84689f64fb2b0bd605" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67461f75689f64fb2b0bd5f5" },
+    "age": 19,
+    "gender": "male",
+    "country": "",
+    "state": "",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Hinduism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "67461faddc7a5db52fd3af3a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461faddc7a5db52fd3af3b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "67461faddc7a5db52fd3af3c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "No",
+        "_id": { "$oid": "67461faddc7a5db52fd3af3d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "67461faddc7a5db52fd3af3e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "67461faddc7a5db52fd3af3f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "67461faddc7a5db52fd3af40" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67461faddc7a5db52fd3af41" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461faddc7a5db52fd3af42" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "67461faddc7a5db52fd3af43" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67461f79689f64fb2b0bd5f8" },
+    "age": 20,
+    "gender": "male",
+    "country": "",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "unemployed",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af49" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af4a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af4b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "No",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af4c" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af4d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af4e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af4f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af50" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af51" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fb6dc7a5db52fd3af52" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67461faedc7a5db52fd3af45" },
+    "age": 47,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "doctorate",
+    "employmentStatus": "employed",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af55" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af56" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af57" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af58" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af59" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af5a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af5b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Unsure",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af5c" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af5d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "67461fdcdc7a5db52fd3af5e" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67461fefdc7a5db52fd3af60" },
+    "age": 21,
+    "gender": "male",
+    "country": null,
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Islam",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "No",
+        "_id": { "$oid": "67462028dc7a5db52fd3af73" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "67462028dc7a5db52fd3af74" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "67462028dc7a5db52fd3af75" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "67462028dc7a5db52fd3af76" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Yes",
+        "_id": { "$oid": "67462028dc7a5db52fd3af77" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67462028dc7a5db52fd3af78" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "No",
+        "_id": { "$oid": "67462028dc7a5db52fd3af79" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Unsure",
+        "_id": { "$oid": "67462028dc7a5db52fd3af7a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "67462028dc7a5db52fd3af7b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "No",
+        "_id": { "$oid": "67462028dc7a5db52fd3af7c" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67461fffdc7a5db52fd3af6f" },
+    "age": 47,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "doctorate",
+    "employmentStatus": "employed",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Unsure",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af7f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af80" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "No",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af81" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af82" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "Unsure",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af83" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af84" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af85" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Unsure",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af86" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af87" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "6746202fdc7a5db52fd3af88" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674620a4dc7a5db52fd3af8a" },
+    "age": 22,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af8e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af8f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af90" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af91" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af92" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af93" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af94" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Yes",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af95" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af96" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674620e7dc7a5db52fd3af97" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67462105dc7a5db52fd3af99" },
+    "age": 20,
+    "gender": "male",
+    "country": null,
+    "state": "",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "No",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa3" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "No",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "6746212edc7a5db52fd3afa9" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67462126dc7a5db52fd3af9c" },
+    "age": 21,
+    "gender": "female",
+    "country": null,
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "6746214edc7a5db52fd3afaf" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb3" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Unsure",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "6746214edc7a5db52fd3afb8" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67462148dc7a5db52fd3afab" },
+    "age": 67,
+    "gender": "genderqueer",
+    "country": null,
+    "state": "",
+    "locationType": "rural",
+    "education": "none",
+    "employmentStatus": "self-employed",
+    "religion": "Islam",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "6746217adc7a5db52fd3afbb" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "6746217adc7a5db52fd3afbc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "No",
+        "_id": { "$oid": "6746217adc7a5db52fd3afbd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "No",
+        "_id": { "$oid": "6746217adc7a5db52fd3afbe" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "No",
+        "_id": { "$oid": "6746217adc7a5db52fd3afbf" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "6746217adc7a5db52fd3afc0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "No",
+        "_id": { "$oid": "6746217adc7a5db52fd3afc1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "No",
+        "_id": { "$oid": "6746217adc7a5db52fd3afc2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Yes",
+        "_id": { "$oid": "6746217adc7a5db52fd3afc3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "No",
+        "_id": { "$oid": "6746217adc7a5db52fd3afc4" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "6746219fdc7a5db52fd3afc6" },
+    "age": -10,
+    "gender": "female",
+    "country": null,
+    "state": "",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "employed",
+    "religion": "Judaism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afca" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afcb" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afcc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afcd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afce" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afcf" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afd0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afd1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afd2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Unsure",
+        "_id": { "$oid": "674621c0dc7a5db52fd3afd3" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67462241dc7a5db52fd3afd5" },
+    "age": 21,
+    "gender": "female",
+    "country": null,
+    "state": "",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afdf" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "Yes",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe1" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Unsure",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Unsure",
+        "_id": { "$oid": "674622b8dc7a5db52fd3afe8" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "6746225bdc7a5db52fd3afd8" },
+    "age": 22,
+    "gender": "male",
+    "country": null,
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674622bddc7a5db52fd3afeb" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674622bddc7a5db52fd3afec" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674622bddc7a5db52fd3afed" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674622bddc7a5db52fd3afee" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "674622bddc7a5db52fd3afef" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674622bddc7a5db52fd3aff0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "674622bddc7a5db52fd3aff1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674622bddc7a5db52fd3aff2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674622bddc7a5db52fd3aff3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Unsure",
+        "_id": { "$oid": "674622bddc7a5db52fd3aff4" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67462272dc7a5db52fd3afdb" },
+    "age": 22,
+    "gender": "male",
+    "country": null,
+    "state": "",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "unemployed",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674622e5dc7a5db52fd3affa" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Unsure",
+        "_id": { "$oid": "674622e5dc7a5db52fd3affb" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "674622e5dc7a5db52fd3affc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "No",
+        "_id": { "$oid": "674622e5dc7a5db52fd3affd" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674622e5dc7a5db52fd3affe" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674622e5dc7a5db52fd3afff" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "674622e5dc7a5db52fd3b000" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674622e5dc7a5db52fd3b001" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674622e5dc7a5db52fd3b002" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674622e5dc7a5db52fd3b003" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674622e2dc7a5db52fd3aff6" },
+    "age": 21,
+    "gender": "female",
+    "country": null,
+    "state": "",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "67462354dc7a5db52fd3b009" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "67462354dc7a5db52fd3b00a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "67462354dc7a5db52fd3b00b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "67462354dc7a5db52fd3b00c" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67462354dc7a5db52fd3b00d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "67462354dc7a5db52fd3b00e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "67462354dc7a5db52fd3b00f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Unsure",
+        "_id": { "$oid": "67462354dc7a5db52fd3b010" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "No",
+        "_id": { "$oid": "67462354dc7a5db52fd3b011" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "67462354dc7a5db52fd3b012" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67462330dc7a5db52fd3b005" },
+    "age": 22,
+    "gender": "male",
+    "country": null,
+    "state": "",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "unemployed",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "6746237edc7a5db52fd3b015" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "6746237edc7a5db52fd3b016" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "Unsure",
+        "_id": { "$oid": "6746237edc7a5db52fd3b017" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "6746237edc7a5db52fd3b018" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Unsure",
+        "_id": { "$oid": "6746237edc7a5db52fd3b019" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "6746237edc7a5db52fd3b01a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "No",
+        "_id": { "$oid": "6746237edc7a5db52fd3b01b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "6746237edc7a5db52fd3b01c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "6746237edc7a5db52fd3b01d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "6746237edc7a5db52fd3b01e" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674628d4dc7a5db52fd3b020" },
+    "age": 20,
+    "gender": "female",
+    "country": null,
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "67462926dc7a5db52fd3b024" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "67462926dc7a5db52fd3b025" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67462926dc7a5db52fd3b026" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "67462926dc7a5db52fd3b027" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "No",
+        "_id": { "$oid": "67462926dc7a5db52fd3b028" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "Unsure",
+        "_id": { "$oid": "67462926dc7a5db52fd3b029" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "67462926dc7a5db52fd3b02a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "67462926dc7a5db52fd3b02b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "67462926dc7a5db52fd3b02c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "67462926dc7a5db52fd3b02d" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67462cfadc7a5db52fd3b02f" },
+    "age": 21,
+    "gender": "male",
+    "country": null,
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b033" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b034" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b035" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b036" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b037" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b038" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b039" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b03a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b03b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "No",
+        "_id": { "$oid": "67462d25dc7a5db52fd3b03c" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "67465803dc7a5db52fd3b03e" },
+    "age": 19,
+    "gender": "female",
+    "country": null,
+    "state": "",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "67465845dc7a5db52fd3b042" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "67465845dc7a5db52fd3b043" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Unsure",
+        "_id": { "$oid": "67465845dc7a5db52fd3b044" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "67465845dc7a5db52fd3b045" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "67465845dc7a5db52fd3b046" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "67465845dc7a5db52fd3b047" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "67465845dc7a5db52fd3b048" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "67465845dc7a5db52fd3b049" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "67465845dc7a5db52fd3b04a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Unsure",
+        "_id": { "$oid": "67465845dc7a5db52fd3b04b" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674b384edc7a5db52fd3b04d" },
+    "age": 20,
+    "gender": "female",
+    "country": null,
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "674b9decf3fd55e08d000210" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Unsure",
+        "_id": { "$oid": "674b9e40361c05fe7213cd18" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Unsure",
+        "_id": { "$oid": "674b9e40361c05fe7213cd19" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "674b9e40361c05fe7213cd1a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674b9e40361c05fe7213cd1b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "No",
+        "_id": { "$oid": "674b9e40361c05fe7213cd1c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674b9e40361c05fe7213cd1d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674b9e40361c05fe7213cd1e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674b9e40361c05fe7213cd1f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "No",
+        "_id": { "$oid": "674b9e40361c05fe7213cd20" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674b9e40361c05fe7213cd21" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674b9e4e361c05fe7213cd23" },
+    "age": 1,
+    "gender": "male",
+    "country": null,
+    "state": "",
+    "locationType": "suburban",
+    "education": "highschool",
+    "employmentStatus": "unemployed",
+    "religion": "Christianity",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "674bb3096405c63572b0a767" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New York",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Buddhism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb33d6405c63572b0a76b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Unsure",
+        "_id": { "$oid": "674bb33d6405c63572b0a76c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb33d6405c63572b0a76d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb33d6405c63572b0a76e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb33d6405c63572b0a76f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb33d6405c63572b0a770" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb33d6405c63572b0a771" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674bb33d6405c63572b0a772" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674bb33d6405c63572b0a773" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb33d6405c63572b0a774" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674bb3616405c63572b0a776" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb38d6405c63572b0a77a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb38d6405c63572b0a77b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674bb38d6405c63572b0a77c" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674bb38d6405c63572b0a77d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "No",
+        "_id": { "$oid": "674bb38d6405c63572b0a77e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "No",
+        "_id": { "$oid": "674bb38d6405c63572b0a77f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb38d6405c63572b0a780" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb38d6405c63572b0a781" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674bb38d6405c63572b0a782" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "No",
+        "_id": { "$oid": "674bb38d6405c63572b0a783" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674c8d936405c63572b0a785" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Tennessee",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "674c8dc36405c63572b0a789" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674c8dc36405c63572b0a78a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674c8dc36405c63572b0a78b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674c8dc36405c63572b0a78c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674c8dc36405c63572b0a78d" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674c8dc36405c63572b0a78e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "No",
+        "_id": { "$oid": "674c8dc36405c63572b0a78f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Unsure",
+        "_id": { "$oid": "674c8dc36405c63572b0a790" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674c8dc46405c63572b0a791" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Unsure",
+        "_id": { "$oid": "674c8dc46405c63572b0a792" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674ce6a46405c63572b0a794" },
+    "age": 25,
+    "gender": "male",
+    "country": "Afghanistan",
+    "state": "",
+    "locationType": "rural",
+    "education": "undergraduate",
+    "employmentStatus": "employed",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674ce6b86405c63572b0a798" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "Yes",
+        "_id": { "$oid": "674ce6b86405c63572b0a799" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "674ce6b86405c63572b0a79a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "No",
+        "_id": { "$oid": "674ce6b86405c63572b0a79b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674ce6b86405c63572b0a79c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "No",
+        "_id": { "$oid": "674ce6b86405c63572b0a79d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "Yes",
+        "_id": { "$oid": "674ce6b86405c63572b0a79e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "No",
+        "_id": { "$oid": "674ce6b86405c63572b0a79f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674ce6b86405c63572b0a7a0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674ce6b86405c63572b0a7a1" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674d03696405c63572b0a7a3" },
+    "age": 21,
+    "gender": "female",
+    "country": "United States",
+    "state": "New York",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "674d1d3b6405c63572b0a7a6" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "New York",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Yes",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7aa" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7ab" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7ac" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7ad" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7ae" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7af" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7b0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7b1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7b2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674d1d7c6405c63572b0a7b3" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674e041e6405c63572b0a7b5" },
+    "age": 21,
+    "gender": "female",
+    "country": "United States",
+    "state": "Virginia",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Hinduism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "674e04666405c63572b0a7b9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674e04666405c63572b0a7ba" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674e04666405c63572b0a7bb" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674e04666405c63572b0a7bc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Unsure",
+        "_id": { "$oid": "674e04666405c63572b0a7bd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674e04666405c63572b0a7be" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674e04666405c63572b0a7bf" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674e04666405c63572b0a7c0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "674e04666405c63572b0a7c1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674e04666405c63572b0a7c2" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674e566d6405c63572b0a7c4" },
+    "age": 3,
+    "gender": "male",
+    "country": "Cambodia",
+    "state": "",
+    "locationType": "rural",
+    "education": "none",
+    "employmentStatus": "employed",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "No",
+        "_id": { "$oid": "674e56806405c63572b0a7c8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "No",
+        "_id": { "$oid": "674e56806405c63572b0a7c9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "No",
+        "_id": { "$oid": "674e56806405c63572b0a7ca" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674e56806405c63572b0a7cb" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674e56806405c63572b0a7cc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "No",
+        "_id": { "$oid": "674e56806405c63572b0a7cd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "674e56806405c63572b0a7ce" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "No",
+        "_id": { "$oid": "674e56806405c63572b0a7cf" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674e56806405c63572b0a7d0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "No",
+        "_id": { "$oid": "674e56806405c63572b0a7d1" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674e57916405c63572b0a7d3" },
+    "age": 19,
+    "gender": "male",
+    "country": "United Arab Emirates",
+    "state": "",
+    "locationType": "suburban",
+    "education": "highschool",
+    "employmentStatus": "unemployed",
+    "religion": "Hinduism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Yes",
+        "_id": { "$oid": "674e59cf6405c63572b0a7d7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "No",
+        "_id": { "$oid": "674e59cf6405c63572b0a7d8" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "674e59cf6405c63572b0a7d9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "Yes",
+        "_id": { "$oid": "674e59cf6405c63572b0a7da" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674e59cf6405c63572b0a7db" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "No",
+        "_id": { "$oid": "674e59cf6405c63572b0a7dc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674e59cf6405c63572b0a7dd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674e59cf6405c63572b0a7de" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "No",
+        "_id": { "$oid": "674e59cf6405c63572b0a7df" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674e59cf6405c63572b0a7e0" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f29746405c63572b0a7e2" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f29b66405c63572b0a7e6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674f29b66405c63572b0a7e7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "674f29b66405c63572b0a7e8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f29b66405c63572b0a7e9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674f29b66405c63572b0a7ea" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f29b66405c63572b0a7eb" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "No",
+        "_id": { "$oid": "674f29b66405c63572b0a7ec" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f29b66405c63572b0a7ed" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "674f29b66405c63572b0a7ee" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Yes",
+        "_id": { "$oid": "674f29b66405c63572b0a7ef" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2a346405c63572b0a7f1" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Hinduism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a6f6405c63572b0a7fe" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2a6f6405c63572b0a7ff" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f2a6f6405c63572b0a800" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a6f6405c63572b0a801" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a6f6405c63572b0a802" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a6f6405c63572b0a803" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a6f6405c63572b0a804" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2a6f6405c63572b0a805" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "674f2a6f6405c63572b0a806" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a6f6405c63572b0a807" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2a416405c63572b0a7f4" },
+    "age": 20,
+    "gender": "female",
+    "country": "Egypt",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Islam",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a756405c63572b0a819" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2a756405c63572b0a81a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a756405c63572b0a81b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a756405c63572b0a81c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a756405c63572b0a81d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a756405c63572b0a81e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a756405c63572b0a81f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2a756405c63572b0a820" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2a756405c63572b0a821" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a756405c63572b0a822" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2a456405c63572b0a7f7" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a736405c63572b0a80d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "No",
+        "_id": { "$oid": "674f2a736405c63572b0a80e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a736405c63572b0a80f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "674f2a736405c63572b0a810" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "No",
+        "_id": { "$oid": "674f2a736405c63572b0a811" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a736405c63572b0a812" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2a736405c63572b0a813" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f2a736405c63572b0a814" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674f2a736405c63572b0a815" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674f2a736405c63572b0a816" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2a556405c63572b0a7fa" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New York",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "unemployed",
+    "religion": "Judaism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2aa76405c63572b0a837" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "No",
+        "_id": { "$oid": "674f2aa76405c63572b0a838" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2aa76405c63572b0a839" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674f2aa76405c63572b0a83a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "No",
+        "_id": { "$oid": "674f2aa76405c63572b0a83b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2aa76405c63572b0a83c" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2aa76405c63572b0a83d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2aa76405c63572b0a83e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2aa76405c63572b0a83f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "No",
+        "_id": { "$oid": "674f2aa76405c63572b0a840" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2a716405c63572b0a809" },
+    "age": 20,
+    "gender": "female",
+    "country": "United States",
+    "state": "Connecticut",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a9e6405c63572b0a82b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "No",
+        "_id": { "$oid": "674f2a9e6405c63572b0a82c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a9e6405c63572b0a82d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a9e6405c63572b0a82e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a9e6405c63572b0a82f" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2a9e6405c63572b0a830" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a9e6405c63572b0a831" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a9e6405c63572b0a832" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2a9e6405c63572b0a833" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2a9e6405c63572b0a834" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2a7c6405c63572b0a824" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f2ae26405c63572b0a843" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2ae26405c63572b0a844" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ae26405c63572b0a845" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ae26405c63572b0a846" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2ae26405c63572b0a847" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ae26405c63572b0a848" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ae26405c63572b0a849" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2ae26405c63572b0a84a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2ae26405c63572b0a84b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674f2ae26405c63572b0a84c" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2a8d6405c63572b0a827" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New York",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2b6e6405c63572b0a84f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "674f2b6e6405c63572b0a850" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674f2b6e6405c63572b0a851" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2b6e6405c63572b0a852" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2b6e6405c63572b0a853" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2b6e6405c63572b0a854" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2b6e6405c63572b0a855" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2b6e6405c63572b0a856" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2b6e6405c63572b0a857" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2b6e6405c63572b0a858" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2d226405c63572b0a85a" },
+    "age": 56,
+    "gender": "male",
+    "country": "United States",
+    "state": "Florida",
+    "locationType": "urban",
+    "education": "graduate",
+    "employmentStatus": "employed",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2d656405c63572b0a85e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f2d656405c63572b0a85f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2d656405c63572b0a860" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "No",
+        "_id": { "$oid": "674f2d656405c63572b0a861" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2d656405c63572b0a862" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2d656405c63572b0a863" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674f2d656405c63572b0a864" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "674f2d656405c63572b0a865" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2d656405c63572b0a866" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "No",
+        "_id": { "$oid": "674f2d656405c63572b0a867" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2d936405c63572b0a869" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "suburban",
+    "education": "graduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "674f2de46405c63572b0a86d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2de46405c63572b0a86e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f2de46405c63572b0a86f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2de46405c63572b0a870" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2de46405c63572b0a871" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "No",
+        "_id": { "$oid": "674f2de46405c63572b0a872" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2de46405c63572b0a873" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2de46405c63572b0a874" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2de46405c63572b0a875" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2de46405c63572b0a876" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f2e7b6405c63572b0a878" },
+    "age": 56,
+    "gender": "female",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "graduate",
+    "employmentStatus": "unemployed",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "No",
+        "_id": { "$oid": "674f2ec26405c63572b0a87c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ec26405c63572b0a87d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ec26405c63572b0a87e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f2ec26405c63572b0a87f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ec26405c63572b0a880" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f2ec26405c63572b0a881" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ec26405c63572b0a882" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "674f2ec26405c63572b0a883" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ec26405c63572b0a884" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "674f2ec26405c63572b0a885" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f331b6405c63572b0a887" },
+    "age": 21,
+    "gender": "female",
+    "country": "United States",
+    "state": "Texas",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "unemployed",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "674f33546405c63572b0a88b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "674f33546405c63572b0a88c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674f33546405c63572b0a88d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f33546405c63572b0a88e" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "674f33546405c63572b0a88f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f33546405c63572b0a890" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f33546405c63572b0a891" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f33546405c63572b0a892" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f33546405c63572b0a893" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f33546405c63572b0a894" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f34766405c63572b0a896" },
+    "age": 21,
+    "gender": "male",
+    "country": "Norway",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34a76405c63572b0a8a0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34a76405c63572b0a8a1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "No",
+        "_id": { "$oid": "674f34a76405c63572b0a8a2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34a76405c63572b0a8a3" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f34a76405c63572b0a8a4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674f34a76405c63572b0a8a5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34a76405c63572b0a8a6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34a76405c63572b0a8a7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "No",
+        "_id": { "$oid": "674f34a76405c63572b0a8a8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34a76405c63572b0a8a9" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f347b6405c63572b0a899" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Texas",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "part-time",
+    "religion": "Hinduism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f34d86405c63572b0a8b8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "674f34d86405c63572b0a8b9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34d86405c63572b0a8ba" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34d86405c63572b0a8bb" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34d86405c63572b0a8bc" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f34d86405c63572b0a8bd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34d86405c63572b0a8be" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "674f34d86405c63572b0a8bf" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f34d86405c63572b0a8c0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34d86405c63572b0a8c1" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f34956405c63572b0a89c" },
+    "age": 20,
+    "gender": "male",
+    "country": "Canada",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34c36405c63572b0a8ac" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34c36405c63572b0a8ad" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f34c36405c63572b0a8ae" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34c36405c63572b0a8af" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f34c36405c63572b0a8b0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f34c36405c63572b0a8b1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f34c36405c63572b0a8b2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f34c36405c63572b0a8b3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "No",
+        "_id": { "$oid": "674f34c36405c63572b0a8b4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "674f34c36405c63572b0a8b5" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f34e36405c63572b0a8c3" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "part-time",
+    "religion": "Judaism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f35276405c63572b0a8ca" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35276405c63572b0a8cb" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f35276405c63572b0a8cc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674f35276405c63572b0a8cd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f35276405c63572b0a8ce" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35276405c63572b0a8cf" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35276405c63572b0a8d0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "674f35276405c63572b0a8d1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35276405c63572b0a8d2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "No",
+        "_id": { "$oid": "674f35276405c63572b0a8d3" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f350d6405c63572b0a8c6" },
+    "age": 19,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35426405c63572b0a8d6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "674f35426405c63572b0a8d7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35426405c63572b0a8d8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35426405c63572b0a8d9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35426405c63572b0a8da" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f35426405c63572b0a8db" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f35426405c63572b0a8dc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "674f35426405c63572b0a8dd" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f35426405c63572b0a8de" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674f35426405c63572b0a8df" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f369b6405c63572b0a8e1" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Virginia",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f36cb6405c63572b0a8e5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f36cb6405c63572b0a8e6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f36cb6405c63572b0a8e7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f36cb6405c63572b0a8e8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f36cb6405c63572b0a8e9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f36cb6405c63572b0a8ea" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f36cb6405c63572b0a8eb" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f36cb6405c63572b0a8ec" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f36cb6405c63572b0a8ed" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f36cb6405c63572b0a8ee" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f392d6405c63572b0a8f0" },
+    "age": 22,
+    "gender": "male",
+    "country": "United States",
+    "state": "California",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "part-time",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f397d6405c63572b0a8f4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f397d6405c63572b0a8f5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Yes",
+        "_id": { "$oid": "674f397d6405c63572b0a8f6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "No",
+        "_id": { "$oid": "674f397d6405c63572b0a8f7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "No",
+        "_id": { "$oid": "674f397d6405c63572b0a8f8" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f397d6405c63572b0a8f9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Yes",
+        "_id": { "$oid": "674f397d6405c63572b0a8fa" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f397d6405c63572b0a8fb" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "No",
+        "_id": { "$oid": "674f397d6405c63572b0a8fc" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f397d6405c63572b0a8fd" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f3eac6405c63572b0a8ff" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "New York",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f3eff6405c63572b0a903" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f3eff6405c63572b0a904" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674f3eff6405c63572b0a905" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f3eff6405c63572b0a906" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f3eff6405c63572b0a907" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f3eff6405c63572b0a908" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674f3eff6405c63572b0a909" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f3eff6405c63572b0a90a" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f3eff6405c63572b0a90b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f3eff6405c63572b0a90c" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f56136405c63572b0a90e" },
+    "age": 21,
+    "gender": "female",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "graduate",
+    "employmentStatus": "employed",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f56716405c63572b0a912" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674f56716405c63572b0a913" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f56716405c63572b0a914" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f56716405c63572b0a915" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674f56716405c63572b0a916" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f56716405c63572b0a917" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f56716405c63572b0a918" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f56716405c63572b0a919" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f56716405c63572b0a91a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "No",
+        "_id": { "$oid": "674f56716405c63572b0a91b" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f570e6405c63572b0a91d" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f573e6405c63572b0a921" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "674f573e6405c63572b0a922" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f573e6405c63572b0a923" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "No",
+        "_id": { "$oid": "674f573e6405c63572b0a924" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f573e6405c63572b0a925" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674f573e6405c63572b0a926" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f573e6405c63572b0a927" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f573e6405c63572b0a928" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f573e6405c63572b0a929" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f573e6405c63572b0a92a" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f62ab6405c63572b0a92c" },
+    "age": 14,
+    "gender": "female",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "highschool",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "674f62ef6405c63572b0a930" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f62ef6405c63572b0a931" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f62ef6405c63572b0a932" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f62ef6405c63572b0a933" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "FDA is important",
+        "_id": { "$oid": "674f62ef6405c63572b0a934" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "No",
+        "_id": { "$oid": "674f62ef6405c63572b0a935" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f62ef6405c63572b0a936" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "No",
+        "_id": { "$oid": "674f62ef6405c63572b0a937" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674f62ef6405c63572b0a938" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "674f62ef6405c63572b0a939" }
+      }
+    ],
+    "passedAttentionCheck": false,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f660c6405c63572b0a93b" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f66636405c63572b0a93f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f66636405c63572b0a940" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f66636405c63572b0a941" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f66636405c63572b0a942" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674f66636405c63572b0a943" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f66636405c63572b0a944" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f66636405c63572b0a945" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f66636405c63572b0a946" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f66636405c63572b0a947" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f66636405c63572b0a948" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f66806405c63572b0a94a" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f67756405c63572b0a94e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f67756405c63572b0a94f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f67756405c63572b0a950" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f67756405c63572b0a951" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f67756405c63572b0a952" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f67756405c63572b0a953" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "674f67756405c63572b0a954" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f67756405c63572b0a955" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f67756405c63572b0a956" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "674f67756405c63572b0a957" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f67956405c63572b0a959" },
+    "age": 19,
+    "gender": "male",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68566405c63572b0a95d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68566405c63572b0a95e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68566405c63572b0a95f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68566405c63572b0a960" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f68566405c63572b0a961" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68566405c63572b0a962" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f68566405c63572b0a963" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68566405c63572b0a964" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68566405c63572b0a965" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68566405c63572b0a966" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f68796405c63572b0a968" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68a76405c63572b0a96c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68a76405c63572b0a96d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68a76405c63572b0a96e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68a76405c63572b0a96f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68a76405c63572b0a970" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68a76405c63572b0a971" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f68a76405c63572b0a972" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f68a76405c63572b0a973" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "674f68a76405c63572b0a974" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674f68a76405c63572b0a975" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f690e6405c63572b0a977" },
+    "age": 21,
+    "gender": "male",
+    "country": "China",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "674f69146405c63572b0a979" },
+    "age": 21,
+    "gender": "male",
+    "country": "China",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f69c06405c63572b0ab09" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674f69c06405c63572b0ab0a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "No",
+        "_id": { "$oid": "674f69c06405c63572b0ab0b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Yes",
+        "_id": { "$oid": "674f69c06405c63572b0ab0c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "No",
+        "_id": { "$oid": "674f69c06405c63572b0ab0d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674f69c06405c63572b0ab0e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Yes",
+        "_id": { "$oid": "674f69c06405c63572b0ab0f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Yes",
+        "_id": { "$oid": "674f69c06405c63572b0ab10" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f69c06405c63572b0ab11" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "No",
+        "_id": { "$oid": "674f69c06405c63572b0ab12" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 19
+  },
+  {
+    "_id": { "$oid": "674f69e86405c63572b0ab14" },
+    "age": 21,
+    "gender": "male",
+    "country": "China",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "674f69e86405c63572b0ab16" },
+    "age": 21,
+    "gender": "male",
+    "country": "China",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "No",
+        "_id": { "$oid": "674f6a176405c63572b0ab1a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a176405c63572b0ab1b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a176405c63572b0ab1c" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f6a176405c63572b0ab1d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a176405c63572b0ab1e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a176405c63572b0ab1f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674f6a176405c63572b0ab20" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a176405c63572b0ab21" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a176405c63572b0ab22" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a176405c63572b0ab23" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f6a426405c63572b0ab25" },
+    "age": 21,
+    "gender": "male",
+    "country": "China",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a826405c63572b0ab29" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674f6a826405c63572b0ab2a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a826405c63572b0ab2b" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f6a826405c63572b0ab2c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a826405c63572b0ab2d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a826405c63572b0ab2e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "No",
+        "_id": { "$oid": "674f6a826405c63572b0ab2f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a826405c63572b0ab30" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6a826405c63572b0ab31" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674f6a826405c63572b0ab32" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f6aa36405c63572b0ab34" },
+    "age": 21,
+    "gender": "male",
+    "country": "China",
+    "state": "",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674f6b586405c63572b0ab38" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6b586405c63572b0ab39" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "No",
+        "_id": { "$oid": "674f6b586405c63572b0ab3a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6b586405c63572b0ab3b" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f6b586405c63572b0ab3c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674f6b586405c63572b0ab3d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6b586405c63572b0ab3e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6b586405c63572b0ab3f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674f6b586405c63572b0ab40" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "No",
+        "_id": { "$oid": "674f6b586405c63572b0ab41" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f70b96405c63572b0ab43" },
+    "age": 22,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "674f75b26405c63572b0ab46" },
+    "age": 22,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "674f75ef6405c63572b0ab4a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674f75ef6405c63572b0ab4b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f75ef6405c63572b0ab4c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f75ef6405c63572b0ab4d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674f75ef6405c63572b0ab4e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f75ef6405c63572b0ab4f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f75ef6405c63572b0ab50" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f75ef6405c63572b0ab51" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "674f75ef6405c63572b0ab52" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f75ef6405c63572b0ab53" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f91826405c63572b0ab55" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Tennessee",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f91f26405c63572b0ab59" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f91f26405c63572b0ab5a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "Yes",
+        "_id": { "$oid": "674f91f26405c63572b0ab5b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "No",
+        "_id": { "$oid": "674f91f26405c63572b0ab5c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674f91f26405c63572b0ab5d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "Yes",
+        "_id": { "$oid": "674f91f26405c63572b0ab5e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674f91f26405c63572b0ab5f" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f91f26405c63572b0ab60" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "674f91f26405c63572b0ab61" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "674f91f26405c63572b0ab62" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674f98d16405c63572b0ab64" },
+    "age": 21,
+    "gender": "female",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f99376405c63572b0ab68" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f99376405c63572b0ab69" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f99376405c63572b0ab6a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Unsure",
+        "_id": { "$oid": "674f99376405c63572b0ab6b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674f99376405c63572b0ab6c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674f99376405c63572b0ab6d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674f99376405c63572b0ab6e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "With restrictions",
+        "_id": { "$oid": "674f99376405c63572b0ab6f" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674f99376405c63572b0ab70" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674f99376405c63572b0ab71" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fac6a6405c63572b0ab73" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Hinduism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fac8b6405c63572b0ab77" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674fac8b6405c63572b0ab78" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674fac8b6405c63572b0ab79" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674fac8b6405c63572b0ab7a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674fac8b6405c63572b0ab7b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fac8b6405c63572b0ab7c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674fac8b6405c63572b0ab7d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fac8b6405c63572b0ab7e" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fac8b6405c63572b0ab7f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fac8b6405c63572b0ab80" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fb4dc6405c63572b0ab82" },
+    "age": 22,
+    "gender": "female",
+    "country": "United States",
+    "state": "New Jersey",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Hinduism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "674fb51a6405c63572b0ab86" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674fb51a6405c63572b0ab87" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fb51a6405c63572b0ab88" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb51a6405c63572b0ab89" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "No",
+        "_id": { "$oid": "674fb51a6405c63572b0ab8a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "No",
+        "_id": { "$oid": "674fb51a6405c63572b0ab8b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb51a6405c63572b0ab8c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb51a6405c63572b0ab8d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb51a6405c63572b0ab8e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5069" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb51a6405c63572b0ab8f" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fb6816405c63572b0ab91" },
+    "age": 21,
+    "gender": "female",
+    "country": "United States",
+    "state": "Virginia",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "part-time",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Legal in all cases",
+        "_id": { "$oid": "674fb6c46405c63572b0ab95" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb6c46405c63572b0ab96" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674fb6c46405c63572b0ab97" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fb6c46405c63572b0ab98" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674fb6c46405c63572b0ab99" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb6c46405c63572b0ab9a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb6c46405c63572b0ab9b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb6c46405c63572b0ab9c" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fb6c46405c63572b0ab9d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "674fb6c46405c63572b0ab9e" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fbbc06405c63572b0aba0" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fbc2d6405c63572b0aba4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbc2d6405c63572b0aba5" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fbc2d6405c63572b0aba6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbc2d6405c63572b0aba7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "674fbc2d6405c63572b0aba8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "No",
+        "_id": { "$oid": "674fbc2d6405c63572b0aba9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbc2d6405c63572b0abaa" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbc2d6405c63572b0abab" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbc2d6405c63572b0abac" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbc2d6405c63572b0abad" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fbc3f6405c63572b0abaf" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "No",
+        "_id": { "$oid": "674fbcb06405c63572b0abb3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "674fbcb06405c63572b0abb4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcb06405c63572b0abb5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fbcb06405c63572b0abb6" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fbcb06405c63572b0abb7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "No",
+        "_id": { "$oid": "674fbcb06405c63572b0abb8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcb06405c63572b0abb9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcb06405c63572b0abba" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcb06405c63572b0abbb" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "674fbcb06405c63572b0abbc" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fbcc26405c63572b0abbe" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcf26405c63572b0abc2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcf26405c63572b0abc3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "No",
+        "_id": { "$oid": "674fbcf26405c63572b0abc4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674fbcf26405c63572b0abc5" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fbcf26405c63572b0abc6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "674fbcf26405c63572b0abc7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcf26405c63572b0abc8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcf26405c63572b0abc9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcf26405c63572b0abca" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbcf26405c63572b0abcb" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fbd0c6405c63572b0abcd" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbd376405c63572b0abd1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbd376405c63572b0abd2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "No",
+        "_id": { "$oid": "674fbd376405c63572b0abd3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbd376405c63572b0abd4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbd376405c63572b0abd5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506d" },
+        "response": "No",
+        "_id": { "$oid": "674fbd376405c63572b0abd6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbd376405c63572b0abd7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fbd376405c63572b0abd8" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fbd376405c63572b0abd9" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674fbd376405c63572b0abda" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fbd4d6405c63572b0abdc" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Christianity",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "674fbdf96405c63572b0abe0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbdf96405c63572b0abe1" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbdf96405c63572b0abe2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "No",
+        "_id": { "$oid": "674fbdf96405c63572b0abe3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fbdf96405c63572b0abe4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbdf96405c63572b0abe5" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fbdf96405c63572b0abe6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fbdf96405c63572b0abe7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506c" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbdf96405c63572b0abe8" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbdf96405c63572b0abe9" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fbe0e6405c63572b0abeb" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbeae6405c63572b0abef" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5082" },
+        "response": "No",
+        "_id": { "$oid": "674fbeae6405c63572b0abf0" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5083" },
+        "response": "No",
+        "_id": { "$oid": "674fbeae6405c63572b0abf1" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fbeae6405c63572b0abf2" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5072" },
+        "response": "No",
+        "_id": { "$oid": "674fbeae6405c63572b0abf3" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbeae6405c63572b0abf4" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "No",
+        "_id": { "$oid": "674fbeae6405c63572b0abf5" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fbeae6405c63572b0abf6" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5084" },
+        "response": "Yes",
+        "_id": { "$oid": "674fbeae6405c63572b0abf7" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "674fbeae6405c63572b0abf8" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fc95c6405c63572b0abfa" },
+    "age": 21,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Other",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507d" },
+        "response": "Yes",
+        "_id": { "$oid": "674fc9bc6405c63572b0abfe" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "674fc9bc6405c63572b0abff" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507f" },
+        "response": "Yes",
+        "_id": { "$oid": "674fc9bc6405c63572b0ac00" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506e" },
+        "response": "Yes",
+        "_id": { "$oid": "674fc9bc6405c63572b0ac01" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "Yes",
+        "_id": { "$oid": "674fc9bc6405c63572b0ac02" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fc9bc6405c63572b0ac03" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "No",
+        "_id": { "$oid": "674fc9bc6405c63572b0ac04" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5081" },
+        "response": "Yes",
+        "_id": { "$oid": "674fc9bc6405c63572b0ac05" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5071" },
+        "response": "Yes",
+        "_id": { "$oid": "674fc9bc6405c63572b0ac06" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507c" },
+        "response": "Yes",
+        "_id": { "$oid": "674fc9bc6405c63572b0ac07" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "674fd6516405c63572b0ac09" },
+    "age": 21,
+    "gender": "male",
+    "country": "Austria",
+    "state": "",
+    "locationType": "rural",
+    "education": "undergraduate",
+    "employmentStatus": "part-time",
+    "religion": "Islam",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "674fd65b6405c63572b0ac0d" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5077" },
+        "response": "No",
+        "_id": { "$oid": "674fd65b6405c63572b0ac0e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5078" },
+        "response": "No",
+        "_id": { "$oid": "674fd65b6405c63572b0ac0f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506a" },
+        "response": "Illegal",
+        "_id": { "$oid": "674fd65b6405c63572b0ac10" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5075" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fd65b6405c63572b0ac11" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506f" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fd65b6405c63572b0ac12" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "674fd65b6405c63572b0ac13" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5070" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fd65b6405c63572b0ac14" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5086" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fd65b6405c63572b0ac15" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5079" },
+        "response": "Unsure",
+        "_id": { "$oid": "674fd65b6405c63572b0ac16" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 1
+  },
+  {
+    "_id": { "$oid": "6750693f6405c63572b0ac18" },
+    "age": 14,
+    "gender": "female",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "suburban",
+    "education": "highschool",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "675069666405c63572b0ac1b" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [],
+    "passedAttentionCheck": false,
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "675069666405c63572b0ac1d" },
+    "age": 20,
+    "gender": "male",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "locationType": "urban",
+    "education": "undergraduate",
+    "employmentStatus": "student",
+    "religion": "Atheism",
+    "responses": [
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507a" },
+        "response": "Yes",
+        "_id": { "$oid": "675069a76405c63572b0ac37" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5073" },
+        "response": "No",
+        "_id": { "$oid": "675069a76405c63572b0ac38" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5076" },
+        "response": "Yes",
+        "_id": { "$oid": "675069a76405c63572b0ac39" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5074" },
+        "response": "Yes",
+        "_id": { "$oid": "675069a76405c63572b0ac3a" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc506b" },
+        "response": "Yes",
+        "_id": { "$oid": "675069a76405c63572b0ac3b" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5080" },
+        "response": "Unsure",
+        "_id": { "$oid": "675069a76405c63572b0ac3c" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc5085" },
+        "response": "Yes",
+        "_id": { "$oid": "675069a76405c63572b0ac3d" }
+      },
+      {
+        "dilemmaId": { "$oid": "654321654321654321654321" },
+        "response": "Abolish the FDA",
+        "_id": { "$oid": "675069a76405c63572b0ac3e" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507e" },
+        "response": "Yes",
+        "_id": { "$oid": "675069a76405c63572b0ac3f" }
+      },
+      {
+        "dilemmaId": { "$oid": "674232913497206846dc507b" },
+        "response": "Yes",
+        "_id": { "$oid": "675069a76405c63572b0ac40" }
+      }
+    ],
+    "passedAttentionCheck": true,
+    "__v": 2
+  }
+]

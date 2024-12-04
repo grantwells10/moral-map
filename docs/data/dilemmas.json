@@ -1,0 +1,182 @@
+[
+  {
+    "_id": { "$oid": "674232913497206846dc5069" },
+    "issue": "Gun Control",
+    "question": "Should there be a federal law mandating background checks for all gun buyers?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc506a" },
+    "issue": "Abortion",
+    "question": "Should abortion be legal in all cases, or should there be restrictions?",
+    "options": ["Legal in all cases", "With restrictions", "Illegal"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc506b" },
+    "issue": "Social Welfare Programs",
+    "question": "Do you believe that the government should provide universal healthcare?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc506c" },
+    "issue": "Climate Change",
+    "question": "Should the government invest more in renewable energy sources?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc506d" },
+    "issue": "Education",
+    "question": "Should public college education be tuition-free?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc506e" },
+    "issue": "Immigration",
+    "question": "Should immigration laws be more strict?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc506f" },
+    "issue": "Healthcare",
+    "question": "Should the government negotiate drug prices to make healthcare affordable?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5070" },
+    "issue": "Privacy",
+    "question": "Should tech companies be allowed to collect user data without explicit consent?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5071" },
+    "issue": "Law Enforcement",
+    "question": "Should there be increased funding for police departments?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5072" },
+    "issue": "Death Penalty",
+    "question": "Do you support the death penalty for serious crimes?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5073" },
+    "issue": "Military Spending",
+    "question": "Should the government increase military spending?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5074" },
+    "issue": "Taxation",
+    "question": "Should the wealthy be taxed at a higher rate to fund social programs?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5075" },
+    "issue": "Minimum Wage",
+    "question": "Should the minimum wage be raised to a living wage?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5076" },
+    "issue": "Housing",
+    "question": "Should there be rent control policies in high-cost areas?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5077" },
+    "issue": "Drug Policy",
+    "question": "Should recreational marijuana be legalized nationwide?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5078" },
+    "issue": "LGBTQ Rights",
+    "question": "Should businesses have the right to refuse services based on religious beliefs?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5079" },
+    "issue": "Voting Rights",
+    "question": "Should voting be made easier through mail-in ballots and early voting?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc507a" },
+    "issue": "Labor Rights",
+    "question": "Should employees have the right to form unions without employer interference?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc507b" },
+    "issue": "Healthcare Accessibility",
+    "question": "Should mental health services be more accessible and covered by insurance?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc507c" },
+    "issue": "Education Curriculum",
+    "question": "Should schools teach sex education starting from middle school?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc507d" },
+    "issue": "Energy Policy",
+    "question": "Should the government phase out fossil fuel subsidies?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc507e" },
+    "issue": "Economic Inequality",
+    "question": "Should the government enforce policies to reduce economic inequality?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc507f" },
+    "issue": "Homelessness",
+    "question": "Should there be a national policy to address homelessness?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5080" },
+    "issue": "Animal Rights",
+    "question": "Should animal testing for cosmetic products be banned?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5081" },
+    "issue": "Corporate Regulations",
+    "question": "Should companies be required to provide paid parental leave?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5082" },
+    "issue": "Freedom of Speech",
+    "question": "Should social media platforms be held responsible for content posted by users?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5083" },
+    "issue": "Reparations",
+    "question": "Should the government pay reparations to descendants of enslaved people?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5084" },
+    "issue": "Prison Reform",
+    "question": "Should non-violent offenders be prioritized for rehabilitation over incarceration?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5085" },
+    "issue": "Environmental Protection",
+    "question": "Should plastic production be regulated more strictly?",
+    "options": ["Yes", "No", "Unsure"]
+  },
+  {
+    "_id": { "$oid": "674232913497206846dc5086" },
+    "issue": "Public Transit",
+    "question": "Should the government invest more in public transportation infrastructure?",
+    "options": ["Yes", "No", "Unsure"]
+  }
+]
