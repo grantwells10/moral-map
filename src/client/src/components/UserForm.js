@@ -190,7 +190,7 @@ const UserForm = ({ onUserCreated }) => {
                             onChange={(e) => setState(e.target.value)} 
                             required
                         >
-                            <option value="">Select State</option>
+                            <option value="">Select State (where you live, not go to school)</option>
                             {states.map((state, index) => (
                                 <option key={index} value={state}>{state}</option>
                             ))}
