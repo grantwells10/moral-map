@@ -174,7 +174,7 @@ const UserForm = ({ onUserCreated }) => {
                         onChange={(e) => setCountry(e.target.value)}
                         required
                     >
-                        <option value="">Select Country</option>
+                        <option value="">Select Country of Current Residence</option>
                         {countries.map((country, index) => (
                             <option key={index} value={country}>{country}</option>
                         ))}
@@ -190,7 +190,7 @@ const UserForm = ({ onUserCreated }) => {
                             onChange={(e) => setState(e.target.value)} 
                             required
                         >
-                            <option value="">Select State (of your main residence)</option>
+                            <option value="">Select State of Current Residence</option>
                             {states.map((state, index) => (
                                 <option key={index} value={state}>{state}</option>
                             ))}
